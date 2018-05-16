@@ -24,7 +24,7 @@ body > nav  > ul > li{
   display : inline;
   border : 2px solid black;
 }
-body > nav > ul > li :hover{
+body > nav > ul > li:hover{
   background-color: #009900;
 }
 body > nav > ul > li > a {
