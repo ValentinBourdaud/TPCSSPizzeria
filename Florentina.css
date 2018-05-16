@@ -24,13 +24,14 @@ body > nav  > ul > li{
   display : inline;
   border : 2px solid black;
 }
+body > nav > ul > li :hover{
+  background-color: #009900;
+}
 body > nav > ul > li > a {
     color : white;
     text-decoration : none;
 }
-body > nav > ul > li : hover{
-  background-color: #009900;
-}
+
 footer >p > a {
   color : #0000FF;
   text-decoration : none;
