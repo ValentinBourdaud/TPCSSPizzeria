@@ -1,0 +1,34 @@
+body{
+  background-color: #EFECCA;
+}
+h1{
+  color : #C03000;
+}
+h2{
+  color : #4BB5C1;
+}
+a{
+  color : #96CA2D;
+  text-decoration: none;
+}
+
+label{
+  text-align: left;
+  width : 10px;
+  float : left;
+}
+[type=text]{
+  border-radius: 5px;
+  text-align : left;
+  border : 1px solid grey;
+  margin top : 2px;
+  margin bottom : 2px;
+  margin left : 5px;
+  float : right;
+  clear : both;
+}
+[type=submit]{
+  background-color: red;
+  color : white;
+  width : 15%;
+}
